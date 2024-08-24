@@ -10,7 +10,9 @@
     font-size: 2em;
   }
 
-
+.container div{
+    border-bottom: solid pink 10px;
+}
 
  
   
